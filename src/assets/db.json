@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "Some random posts 1",
+      "userId": 23,
+      "id": 1
+    },
+    {
+      "title": "Post2",
+      "body": "Some random posts 2",
+      "userId": 24,
+      "id": 2
+    },
+    {
+      "title": "post 3",
+      "body": "jjfdjrsr",
+      "userId": 687.4481934909218,
+      "id": 604.4642442779777
+    }
+  ]
+}

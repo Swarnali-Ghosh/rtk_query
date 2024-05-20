@@ -1,0 +1,27 @@
+youtube video link : https://youtu.be/60ELggkwLHc?si=TtnEmkgtvYUp7dFu
+
+how to start working with json server ?
+_______________________________________
+step 1:
+npm i json-server
+
+step 2:
+json-server --watch ./src/assets/db.json
+or,
+npx json-server --watch ./src/assets/db.json
+________________________________________
+
+video duration: 6 min
+
+________________________________________
+Q. What are the main features of Redux Toolkit?
+
+Answer: Key features include `createSlice`, `configureStore`, `createAsyncThunk`, `createEntityAdapter`, and built-in middleware like `redux-thunk`.
+
+Q. What is RTK Query in Redux Toolkit?
+
+Answer: RTK Query is a powerful data fetching and caching tool built into Redux Toolkit. It provides an efficient way to fetch, cache, and synchronize remote data in React applications. It helps in reducing boilerplate code and offers a set of features such as automatic caching, deduplication, and updates.
+
+Q. How do you create an API service using RTK Query?
+
+Answer: To create an API service using RTK Query, you use the createApi function. Here is a basic example:
